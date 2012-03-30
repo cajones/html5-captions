@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>html5 player with captions</title>
+    <style type="text/css">
+        .centre {
+            width:640px;
+            margin: 0 auto;
+        }
+        #subtitles {
+            position: relative;
+            top: -50px;
+            z-index: 2147483647;
+            color: #ffffff;
+            background-color;
+            text-align: center;
+        }
+        #subtitles.fullscreen {
+            position: relative;
+            top: 300px;
+            z-index: 2147483647;
+            color: #ffffff;
+            background-color;
+            text-align: center;   
+        }
+    </style>
+
+    <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.6.2/jquery.min.js"></script>
+    
+    <link href="http://vjs.zencdn.net/c/video-js.css" rel="stylesheet">
+    <script src="http://vjs.zencdn.net/c/video.js"></script>
+    
+    <script type="text/javascript" src="lib/cuepoint.js"></script>
+</head>
+<body>
+    <div class="centre player">
+        <video id="video" class="video-js vjs-default-skin" controls
+            preload="auto" width="640" height="264" data-setup="{}">
+            <source src="http://cdn1.cache.twofourdigital.net/u/europarltvbeta/4766dfac-2eb0-4ead-8162-a022012b03f5/video/en/mpeg4/517/n001-120328-002-512k.mp4
+" type='video/mp4'>
+        </video>
+
+        <div id="subtitles" class="srt fullscreen" data-video="video" data-srt="assets/sample.srt" />
+    </div>
+    <script type="text/javascript">
+        $(function(){
+
+            var slides = {
+                3: "Lorem ipsum dolor sit amet",
+                5: "consectetur adipisicing elit, sed do eiusmod",
+                7: "tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam",
+                9: "quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo"
+            };
+            cuepoint.init(slides);
+            cuepoint.play();
+        });
+    </script>
+</body>
+</html>
+

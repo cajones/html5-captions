@@ -1,0 +1,672 @@
+
+<!-- saved from url=(0038)http://v2v.cc/~j/jquery.srt/sample.srt -->
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1"></head><body><pre style="word-wrap: break-word; white-space: pre-wrap;">0
+00:00:01,120 --&gt; 00:00:04,520
+
+1
+00:00:05,000 --&gt; 00:00:07,440
+In most countries 
+on the continent
+
+2
+00:00:08,000 --&gt; 00:00:12,720
+There were princes,
+they were absolute regimes,
+
+3
+00:00:13,160 --&gt; 00:00:16,480
+The degree of absolutism was 
+relative to a particular setting,
+
+4
+00:00:17,000 --&gt; 00:00:21,480
+But If you take France as the most important
+central, most populace country, 
+
+5
+00:00:22,000 --&gt; 00:00:27,320
+you had a very elaborate system of 
+censorship, but in addition to that,
+
+6
+00:00:27,680 --&gt; 00:00:32,160
+you had a monopoly of production 
+in the bookseller's guild in Paris,
+
+7
+00:00:32,560 --&gt; 00:00:34,040
+it had police powers
+
+8
+00:00:34,240 --&gt; 00:00:38,040
+and then the police itself had 
+specialised inspectors of the book trade
+
+9
+00:00:38,520 --&gt; 00:00:40,080
+so you put all of that together 
+
+10
+00:00:40,440 --&gt; 00:00:44,760
+and the state was very powerful 
+in its attempt to control the printed word.
+
+11
+00:00:45,200 --&gt; 00:00:48,040
+By the time you time you get 
+to the age of the Enlightenment 
+
+12
+00:00:48,200 --&gt; 00:00:53,320
+there's a highly organised 
+administration of the book trade,
+
+13
+00:00:53,680 --&gt; 00:00:58,320
+so in principle anything that appears in print 
+has to pass the censorship 
+
+14
+00:00:58,680 --&gt; 00:01:00,720
+and be registered,
+
+15
+00:01:01,120 --&gt; 00:01:03,320
+to go through an elaborate process,
+
+16
+00:01:03,800 --&gt; 00:01:05,920
+and of course this didn't work
+
+17
+00:01:06,600 --&gt; 00:01:09,160
+that the directions set,
+
+18
+00:01:10,000 --&gt; 00:01:15,600
+the organisation set up 
+by the state was so elaborate, 
+
+19
+00:01:16,000 --&gt; 00:01:18,040
+so baroque in its bureaucracy
+
+20
+00:01:18,440 --&gt; 00:01:20,680
+that in a sense it was 
+counterproductive.
+
+21
+00:01:21,680 --&gt; 00:01:23,080
+ Censorship, you know,
+
+22
+00:01:23,880 --&gt; 00:01:25,280
+varies from regime to regime.
+
+23
+00:01:26,200 --&gt; 00:01:27,040
+We think we know 
+what censorship is,
+
+24
+00:01:27,960 --&gt; 00:01:33,200
+but i would argue that it's a 
+different thing under different systems,
+
+25
+00:01:34,000 --&gt; 00:01:37,560
+so the basic idea of censorship 
+in 18th century france
+
+26
+00:01:38,360 --&gt; 00:01:40,000
+is the concept of privilege 
+or private law,
+
+27
+00:01:40,960 --&gt; 00:01:44,000
+a publisher gets the right to publish 
+a particular text 
+
+28
+00:01:44,000 --&gt; 00:01:45,840
+that is denied to others,
+
+29
+00:01:46,160 --&gt; 00:01:47,760
+so he has that privilege.
+
+30
+00:01:48,000 --&gt; 00:01:51,560
+that's different from censorship 
+under stalin, say, or hitler
+
+31
+00:01:52,520 --&gt; 00:01:59,560
+ There is a monopoly of what's called 
+the booksellers guild of paris.
+
+32
+00:02:00,000 --&gt; 00:02:02,200
+it has police power;
+
+33
+00:02:02,680 --&gt; 00:02:08,840
+its syndics and aguane are 
+obliged to inspect
+
+34
+00:02:09,800 --&gt; 00:02:11,360
+all of the printing houses in paris
+
+35
+00:02:12,000 --&gt; 00:02:16,320
+and printers are officially limited 
+to 36 printing shops.
+
+36
+00:02:17,000 --&gt; 00:02:19,760
+And so the guild is supposed to go 
+around from shop to shop
+
+37
+00:02:20,000 --&gt; 00:02:22,000
+and find out what 
+they're printing,
+
+38
+00:02:22,680 --&gt; 00:02:24,560
+make sure there are no illegal 
+books being printed.
+
+39
+00:02:25,520 --&gt; 00:02:28,560
+No books that 
+contravene privileges
+
+40
+00:02:29,280 --&gt; 00:02:34,040
+the equivalent of copyright in a sense etc.
+So yes they have powers 
+
+41
+00:02:35,000 --&gt; 00:02:37,920
+and they also inspect every single book 
+which is shipped into paris.
+
+42
+00:02:38,120 --&gt; 00:02:41,080
+the books are stopped at the wall 
+which surrounds paris
+
+43
+00:02:42,000 --&gt; 00:02:45,560
+and any ship which is 
+marked 'libri' books
+
+44
+00:02:46,440 --&gt; 00:02:50,080
+is sent to a special 
+large hall
+
+45
+00:02:51,000 --&gt; 00:02:54,440
+where the  booksellers guild and inspector 
+of police will inspect it.
+
+46
+00:02:54,760 --&gt; 00:02:57,000
+Essentially what you have
+
+47
+00:02:57,680 --&gt; 00:03:01,280
+is a centralised administration for 
+controlling the book trade
+
+48
+00:03:02,000 --&gt; 00:03:05,120
+using censorship and 
+also using the monopoly
+
+49
+00:03:06,000 --&gt; 00:03:07,680
+of the established publishers
+
+50
+00:03:08,000 --&gt; 00:03:10,280
+against that you've got 
+publishing houses,
+
+51
+00:03:11,000 --&gt; 00:03:13,040
+print presses that 
+surround france
+
+52
+00:03:14,000 --&gt; 00:03:16,000
+in what i call a 
+'fertile crescent'
+
+53
+00:03:16,720 --&gt; 00:03:19,040
+dozens and dozens of them producing 
+books which are smuggled
+
+54
+00:03:20,000 --&gt; 00:03:21,040
+across the french borders
+
+55
+00:03:22,000 --&gt; 00:03:25,040
+ and distributed everywhere in the kingdom 
+by an underground system,
+
+56
+00:03:25,920 --&gt; 00:03:29,920
+so in effect you've got two systems 
+at war with one another.
+
+57
+00:03:30,560 --&gt; 00:03:33,200
+And it's the system of production 
+outside france
+
+58
+00:03:34,040 --&gt; 00:03:36,440
+that is crucial for the 
+enlightenment,
+
+59
+00:03:37,040 --&gt; 00:03:40,320
+virtually all of the works that we associate 
+with the french enlightenment
+
+60
+00:03:41,040 --&gt; 00:03:43,840
+are published in Amsterdam, 
+in the Hague,
+
+61
+00:03:44,280 --&gt; 00:03:47,600
+in Brussels in Geneva, 
+in Neuchatel, in Basel 
+
+62
+00:03:48,560 --&gt; 00:03:50,920
+these are the places where 
+Rosseau, Voltaire 
+
+63
+00:03:51,400 --&gt; 00:03:53,800
+and company get 
+themselves printed,
+
+64
+00:03:54,480 --&gt; 00:03:57,000
+but these printers also 
+produce other things
+
+65
+00:03:57,960 --&gt; 00:04:00,840
+because they're in it not simply 
+to spread enlightenment,
+
+66
+00:04:01,720 --&gt; 00:04:04,360
+many of them are sympathetic 
+to the enlightenment
+
+67
+00:04:05,000 --&gt; 00:04:08,400
+they're in it to make money. So 
+they will satisfy demand,
+
+68
+00:04:09,000 --&gt; 00:04:10,760
+whatever the demand might be...
+
+69
+00:04:11,240 --&gt; 00:04:13,200
+the pirates had agents in paris
+
+70
+00:04:14,000 --&gt; 00:04:16,840
+and everywhere else, who were sending 
+them sheets of new books
+
+71
+00:04:17,400 --&gt; 00:04:18,680
+which they think will sell well,
+
+72
+00:04:19,320 --&gt; 00:04:24,400
+ the pirates are systematically 
+doing market research
+
+73
+00:04:25,480 --&gt; 00:04:32,560
+in hundreds and thousands of letters, 
+they are sounding the market,
+
+74
+00:04:33,160 --&gt; 00:04:34,840
+they want to know 
+what demand is
+
+75
+00:04:35,520 --&gt; 00:04:40,880
+the reaction of publishers at the centre 
+is of course extremely hostile,
+
+76
+00:04:41,760 --&gt; 00:04:43,000
+I've read a lot of their letters;
+
+77
+00:04:43,480 --&gt; 00:04:45,320
+they're full of expressions 
+like buccaneer
+
+78
+00:04:46,240 --&gt; 00:04:50,800
+and private and people without 
+shame or morality etc.
+
+79
+00:04:51,920 --&gt; 00:04:55,720
+in actual fact many of these pirates 
+were good bourgeois,
+
+80
+00:04:56,320 --&gt; 00:04:58,920
+in Lausanne or, Geneva 
+or, Amsterdam
+
+81
+00:04:59,560 --&gt; 00:05:02,560
+and they thought, that they were 
+just 'doing business'.
+
+82
+00:05:03,200 --&gt; 00:05:06,280
+after all there was no 
+international copyright law
+
+83
+00:05:07,120 --&gt; 00:05:10,240
+and they were satisfying demand. 
+If the demand hapend to be in france 
+
+84
+00:05:11,000 --&gt; 00:05:12,960
+well, that's a problem 
+for the french,
+
+85
+00:05:13,560 --&gt; 00:05:15,200
+ but not for the 
+dutch or the swiss
+
+86
+00:05:15,840 --&gt; 00:05:17,760
+I must admit, 
+I always hesitate
+
+87
+00:05:18,360 --&gt; 00:05:20,520
+to pronounce on 
+world historical trends.
+
+88
+00:05:21,480 --&gt; 00:05:24,400
+But i've spend a lot 
+of time in the archives
+
+89
+00:05:25,360 --&gt; 00:05:27,840
+and you can at least 
+glimpse something,
+
+90
+00:05:28,200 --&gt; 00:05:30,920
+ that might look world 
+historical from time to time,
+
+91
+00:05:31,360 --&gt; 00:05:33,400
+as you go through 
+various bits of old paper.
+
+92
+00:05:34,480 --&gt; 00:05:37,680
+What is clear is that 
+during the 18th century
+
+93
+00:05:38,640 --&gt; 00:05:42,800
+ that the printed word as a 
+force is expanding everywhere
+
+94
+00:05:43,760 --&gt; 00:05:45,960
+and we can go into a 
+lots of detailed studies
+
+95
+00:05:46,680 --&gt; 00:05:48,840
+to find out why an 
+how that this happened
+
+96
+00:05:49,800 --&gt; 00:05:53,760
+The population is increasing, the 
+educational institutions are spreading,
+
+97
+00:05:54,360 --&gt; 00:05:59,040
+literacy is going up and there is this 
+new thing we call 'public opinion'.
+
+98
+00:06:00,000 --&gt; 00:06:02,840
+The phrase itself is first used in 
+the middle of the 18th century,
+
+99
+00:06:03,720 --&gt; 00:06:05,760
+I think the phenomenon 
+existed earlier,
+
+100
+00:06:06,560 --&gt; 00:06:08,600
+but for the last half 
+of the 18th century
+
+101
+00:06:09,240 --&gt; 00:06:13,240
+there is a public that is 
+fascinated with public affairs,
+
+102
+00:06:14,200 --&gt; 00:06:17,840
+now the mechanism 
+for controlling the media
+
+103
+00:06:18,600 --&gt; 00:06:20,840
+if you want to use that expression 
+notably the print media
+
+104
+00:06:21,800 --&gt; 00:06:25,000
+is simply not adequate to 
+controlling this demand.
+
+105
+00:06:25,960 --&gt; 00:06:29,480
+So everywhere around france, 
+even within france,
+
+106
+00:06:30,440 --&gt; 00:06:35,720
+there are entrepreneurs who take it 
+upon themselves to satisfy this demand 
+
+107
+00:06:36,560 --&gt; 00:06:39,400
+and this can be in the form of clandestine manuscript newsletters,
+
+108
+00:06:40,360 --&gt; 00:06:45,080
+it can be in a form of fully printed 
+books and there are many other forms
+
+109
+00:06:46,040 --&gt; 00:06:49,120
+the one that I find most 
+interesting is songs.
+
+110
+00:06:49,840 --&gt; 00:06:54,840
+It turns out that everyone in the 
+18th century, if you take paris,
+
+111
+00:06:55,680 --&gt; 00:06:59,760
+had a repertory of tunes in his 
+or her had, as we do today.
+
+112
+00:07:00,680 --&gt; 00:07:02,840
+most of my tunes come 
+from commercials actually
+
+113
+00:07:03,800 --&gt; 00:07:05,720
+People would improvise 
+
+114
+00:07:06,680 --&gt; 00:07:09,640
+new words to old tunes, 
+everyday.
+
+115
+00:07:10,600 --&gt; 00:07:13,800
+And these would be sung 
+in the streets of paris,
+
+116
+00:07:14,680 --&gt; 00:07:17,640
+sometimes by professionals, 
+who had hurdy-gurdys
+
+117
+00:07:18,600 --&gt; 00:07:23,760
+and would simply belt out the last 
+verse tune that everyone knew.
+
+118
+00:07:24,720 --&gt; 00:07:26,320
+And it could be about 
+the kings mistress,
+
+119
+00:07:27,000 --&gt; 00:07:29,120
+ it could be about a minister 
+who is abusing power,
+
+120
+00:07:30,120 --&gt; 00:07:33,600
+it could be on a whole variety 
+of quite political subjects.
+
+121
+00:07:34,560 --&gt; 00:07:38,760
+This new verse is then picked up 
+because it is a great mnemonic device
+
+122
+00:07:39,720 --&gt; 00:07:42,880
+and the song is been song throughout 
+the streets of paris.
+
+123
+00:07:43,600 --&gt; 00:07:47,920
+I imagine the street of paris - it is just 
+echoing everywhere with songs.
+
+124
+00:07:48,880 --&gt; 00:07:53,480
+So that is a good example of how 
+in the absence of news media
+
+125
+00:07:54,440 --&gt; 00:08:00,600
+of proper newspaper, a new 
+kind of medium developed,
+
+126
+00:08:01,280 --&gt; 00:08:03,240
+that actually does 
+the job of newspapers
+
+127
+00:08:04,200 --&gt; 00:08:09,280
+ I've studied hundreds of these songs and I would say, they were sung newspapers.
+
+128
+00:08:10,240 --&gt; 00:08:14,520
+There's  no way that an 
+absolutist political system
+
+129
+00:08:15,200 --&gt; 00:08:17,040
+can totally suppress the 
+spread of information
+
+130
+00:08:18,000 --&gt; 00:08:21,040
+new media adapt themselves 
+to these circumstances,
+
+131
+00:08:22,000 --&gt; 00:08:26,240
+and often they can become even more 
+effective because of the repression.
+
+132
+00:08:27,200 --&gt; 00:08:30,680
+It's a fascinating process 
+and it culminates frankly 
+
+133
+00:08:31,560 --&gt; 00:08:34,400
+right on the eve of the france 
+revolution, so that i would argue,
+
+134
+00:08:35,000 --&gt; 00:08:38,040
+Not only did this new media system 
+spread the enlightenment
+
+135
+00:08:39,000 --&gt; 00:08:41,920
+but, I won't use the word 
+'prepared', the way for the revolution
+
+136
+00:08:42,880 --&gt; 00:08:46,280
+it indicted the old regim
+
+137
+00:08:47,120 --&gt; 00:08:50,560
+that this power, public opinion, 
+became crucial
+
+138
+00:08:51,520 --&gt; 00:08:55,560
+in the collapse of 
+the government 1787-1788.
+
+</pre></body></html>
